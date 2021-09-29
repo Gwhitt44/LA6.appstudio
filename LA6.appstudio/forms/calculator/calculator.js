@@ -1,5 +1,5 @@
 
-/*
+
 btnAdd.onclick=function(){
   let num1 = Number(INPfirst.value)
   let num2 = Number(INPsecond.value)
@@ -23,4 +23,3 @@ Clear.onclick=function(){
   lblOutput.value= ""
   
 }
-*/
