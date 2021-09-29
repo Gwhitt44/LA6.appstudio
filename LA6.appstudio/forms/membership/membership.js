@@ -1,4 +1,4 @@
-/*
+
 let members = ["Mary","Sam","Joey","Paul","Mike","Char","Jenny","Kennedy","Kaden","Kurt","Anne"]
 
 
@@ -13,4 +13,3 @@ for (i = 0; i < members.length; i++)
   
   }
 }
-*/
